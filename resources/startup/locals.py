@@ -12,11 +12,7 @@ import os
 
 a = r"""
   _    _ _ _             _     _
- | |  | | | |           (_)   | |
- | |  | | | |_ _ __ ___  _  __| |
- | |  | | | __| '__/ _ \| |/ _  |
- | |__| | | |_| | | (_) | | (_| |
-  \____/|_|\__|_|  \___/|_|\__,_|
+ |||||||||\\\\\\\|||||\\\\
 """
 
 
@@ -51,7 +47,7 @@ def start():
     # start bleck megik
     print("\n\nLets start entering the variables.\n\n")
     varrs = [
-        "API_ID",
+        "API_ID",t
         "API_HASH",
         "SESSION",
         "REDIS_URI",
